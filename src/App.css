@@ -1,0 +1,9 @@
+.App {
+  font-family: "Inter", sans-serif;
+}
+.form-control:focus {
+  box-shadow: none !important;
+}
+.btn:focus {
+  box-shadow: none !important;
+}
